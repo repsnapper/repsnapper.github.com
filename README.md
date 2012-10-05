@@ -1,20 +1,18 @@
-# Repsnapper
+## About Repsnapper
 
-RepSnapper is an alternative host software for controlling the RepRap (http://reprap.org) open source 3D printer.
+Repsnapper is an alternative host software for controlling the RepRap (http://reprap.org) open source 3D printer.
 
-== Getting it ==
+## Getting it
 
-   * newest source to compile on unix/linux/mac:
-
+* Fetch the newest source to compile on Unix/Linux/Mac:
      git clone https://github.com/timschmidt/repsnapper.git
 
-   * get newest patches later by:
-
+* get newest patches later by:
      git pull
 
-   * source tarball of latest tag: https://github.com/timschmidt/repsnapper/tags
+* source tarball of latest tag: https://github.com/timschmidt/repsnapper/tags
 
-   * windows builds: https://github.com/timschmidt/repsnapper/downloads
+* Windows builds: https://github.com/timschmidt/repsnapper/downloads
 
 
 ## Compilation
@@ -36,7 +34,7 @@ For latest documentation, see:
 For version 1.1.x, see:
 * https://github.com/timschmidt/repsnapper/blob/repsnapper-1.1.x/doc/manual.asciidoc RepSnapper v1 Manual
 
-## Contact Info ==
+## Contact Info
 
     * Irc channel: #repsnapper at irc://chat.freenode.net
 
